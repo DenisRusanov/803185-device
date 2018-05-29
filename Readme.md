@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Денис Русанов](https://up.htmlacademy.ru/htmlcss/21/user/803185).
-* Наставник: `Вадим Двухжилов`.
+* Наставник: `Вадим Двухжилов` (https://htmlacademy.ru/profile/ericssan).
 
 ---
 
